@@ -1,0 +1,89 @@
+body {
+    background-color: white;
+    font-family: sans-serif;
+    padding: auto;
+    margin:auto;
+}
+
+.logo {
+    display: inline-block;
+}
+
+.logo img {
+    width: 117px;
+    height: 43px;
+}
+
+.baby {
+    background-color: darkblue;
+    color: darkblue;
+    display: inline-block;
+    width: 100%;
+}
+
+.header {
+    background-color: white;
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.bold   {
+    float: right;
+    color: darkblue;
+}
+
+.ids {
+    background-color: rgb(79, 120, 134);
+    width: 100%;
+    display: inline-block;
+    padding-top: 1em;
+    height: 2em;
+}
+
+.ids a{
+    padding-left: 100px;
+    color: purple;
+    text-decoration: none;
+}
+
+.homie img{
+    width: 100%;
+}
+
+.subject h3 {
+    color: darkblue;
+    font-size: 22px;
+    font-weight: 700;
+}
+
+.content {
+    padding-top: 20px;
+}
+
+.subject {
+    border-style: solid;
+    border-width: 2px;
+    border-radius: 25px;
+    border-color: darkblue;
+
+    float: left;
+    height: 180px;
+    margin-left: 150px;
+    padding: 5px;
+    width: 100%;
+    max-width: 500px;
+}
+
+.footer a{
+    color: white;
+    text-decoration: none;
+    margin-left: 100px;
+}
+.footer {
+    margin-top: 20px;
+    width: 100%;
+    padding-top: 1em;
+    height: 2em;
+    background-color: darkblue;
+    display: inline-block;
+}
