@@ -7,7 +7,7 @@ Evt-Labs
 [Evt2](https://splendorous-marshmallow-3bfdcc.netlify.app/evt2/evt2)
 
 ---------------------------------------
-Inis-labs
+Inis-Labs
 
 [Inis1](https://splendorous-marshmallow-3bfdcc.netlify.app/inis-lab1/)
 
