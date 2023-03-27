@@ -1,0 +1,132 @@
+body{
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  }
+  .block{
+  background-color:rgb(19, 17, 58);
+  width: 100%;
+  height: 30px;
+  }
+  .logo{
+  margin-left: 140px;
+  display: inline-block;
+  margin-right: 500px;
+  width: 90px;
+  height: 40px;
+  }
+  .title{
+  float: right;
+  font-size: 20px;
+  color: rgb(65, 85, 141);
+  }
+  .header-second{
+  background-color:rgb(85, 104, 148);
+  height: 20px;
+  
+  }
+  .header-list{
+  background-color:rgb(105, 137, 211);
+  list-style-type: none;
+  }
+  .list-item{
+  float: left;
+  margin-left: 60px;
+  }
+  .link{
+  text-decoration: none;
+  }
+  
+  .footer-list{
+  background-color: rgb(19, 17, 58);
+  list-style-type: none;
+  height: 20px;
+  padding: 10px;
+  }
+  .footer-list a{
+  float: left;
+  text-decoration: none;
+  margin-left: 60px;
+  color: #fff;
+  }
+  .main-block{
+  padding: 50px 0 30px 0;
+  }
+  .cards-container{
+  display: flex;
+  justify-content: center;
+  justify-content: space-around;
+  align-content: space-between;
+  flex-wrap: wrap;
+  }
+  .card{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  align-items: center;
+  width: 200px;
+  background-color: #fff;
+  border: 2px solid blue;
+  border-radius: 30px;
+  padding: 0 20px 20px 20px;
+  margin-bottom: 10px;
+  }
+  .card__title{
+  font-size: 22px;
+  color: blue;
+  }
+  .card__subtitle{
+  font-size: 18px;
+  color: #020000;
+  margin-bottom: 15px;
+  }
+  .card__btn-container{
+  display: block;
+  margin: 0 auto;
+  }
+  .btn{
+  max-width: 80px;
+  border: 2px solid blue;
+  border-radius: 5px;
+  font-size:10px;
+  cursor: pointer;
+  padding: 5px;
+  background-color: blue;
+  color: #fff;
+  }
+  .btn:not(:first-child){
+  margin-left: 15px;
+  font-size: 10px;
+  }
+  .card__img{
+  width: 200px;
+  height: 200px;
+  border-radius: 30px;
+  }
+  .overlay{
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background-color: rgba(0, 0, 0, 0.7);
+  top: 0;
+  }
+  .modal{
+  box-sizing: border-box;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 35rem;
+  min-height: 20rem;
+  background-color: #F2F2F2;
+  padding: 3.5rem 2.3rem 4rem 2.8rem;
+  }
+  .modal-close{
+  position: absolute;
+  color: blue;
+  top: 10px;
+  right: 20px;
+  cursor: pointer;
+  font-size: 2.3rem;
+  line-height: 1.5rem;
+  }
