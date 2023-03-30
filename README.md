@@ -15,4 +15,4 @@ Inis-Labs
 
 [Inis2](https://splendorous-marshmallow-3bfdcc.netlify.app/inis-lab2/2.html)
 
-[Inis3](https://splendorous-marshmallow-3bfdcc.netlify.app/inis-lab3/3.html)
+[Inis3-4](https://splendorous-marshmallow-3bfdcc.netlify.app/inis-lab3/3.html)
