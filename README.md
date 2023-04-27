@@ -8,7 +8,7 @@ Evt-Labs
 
 [Evt3](https://huba.netlify.app/evt3/3_lab_evt)
 
-[Evt4](https://huba.netlify.app/evt4/evt-4)
+[Evt4](https://huba.netlify.app/evt4/4_lab_evt)
 
 [Evt5](https://huba.netlify.app/evt5/evt_lab_5)
 
