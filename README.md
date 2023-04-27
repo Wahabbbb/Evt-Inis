@@ -21,4 +21,4 @@ Inis-Labs
 
 [Inis3-4](https://huba.netlify.app/inis-lab4/lab3-inis)
 
-[Inis5]((https://huba.netlify.app/inis-5/inis-5.html)
+[Inis5](https://huba.netlify.app/inis-5/inis-5.html)
