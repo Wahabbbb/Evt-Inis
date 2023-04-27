@@ -12,6 +12,8 @@ Evt-Labs
 
 [Evt5](https://huba.netlify.app/evt5/evt_lab_5)
 
+[Evt6](https://huba.netlify.app/evt6/6_lab_evt)
+
 ---------------------------------------
 Inis-Labs
 
