@@ -1,0 +1,52 @@
+html {
+  font-family: sans-serif;
+  }
+  
+  body {
+  margin: 0;
+  }
+  
+  header {
+  background: rgb(52, 206, 142);
+  height: 100px;
+  }
+  
+  h1 {
+  text-align: center;
+  color: white;
+  line-height: 100px;
+  margin: 0;
+  }
+  
+  button {
+  margin: 50px;
+  font-size: 20px;
+  background-color: red;
+  transition: all .2s;
+  animation: 0.05s tremor ease-out infinite;
+  color: #fff;
+  cursor: pointer;
+  }
+  
+  button:hover {
+  background-color: green;
+  animation: none;
+  }
+  
+  @keyframes tremor {
+  
+  0%,
+  25% {
+  left: -5px;
+  transform: translateX(-4%);
+  }
+  
+  50%,
+  100% {
+  left: 5px;
+  transform: translateX(4%);
+  }
+  }
+  
+  
+  
